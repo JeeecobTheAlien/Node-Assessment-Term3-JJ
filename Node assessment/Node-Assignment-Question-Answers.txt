@@ -1,0 +1,16 @@
+
+
+1. How many hours did it take you to complete this assessment?
+    It took 7 hours to complete the assignment.
+
+2. What online resources you have used?
+    I rewatched all Annies recorded classes and a few of your most recent classes Peter, If they were actually used and helpful in the assignment idk.
+
+3. Did you need to ask any of your friends in solving the problems.
+    I didn't ask anyone for help to solve anything prefer not to ask unless I truly am lost regarding it.
+
+4. Did you need to ask questions to any of your instructors?
+    I asked one question to Peter during the Fullstack Support Jan/25/2024 regarding the Node_modules.
+
+5. Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+    I rate it a 7/10 (1 being Easy, 10 being Hard) for the only purpose the code itself was a 3.5 and the actual problems given was a 3.5 thats what takes most of my time as I need to read it several times as I have trouble reading!
